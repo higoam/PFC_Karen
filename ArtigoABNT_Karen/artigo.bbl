@@ -1,0 +1,74 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[ABRAMAT 2017]{ABRAMAT2017}
+\abntrefinfo{ABRAMAT}{ABRAMAT}{2017}
+{ABRAMAT, A. \textbf{Titulo}.
+edicao. Local, 2017. Total de paginas~p. Dispon{\'\i}vel em:
+  \url{www.berg.com}. Acesso em: 20 dez. de 2015.}
+
+\bibitem[ABRANTES 2001]{ABRANTES2001}
+\abntrefinfo{ABRANTES}{ABRANTES}{2001}
+{ABRANTES. Titulo do artigo. In:  NOME DO EVENTO, Numero do evento., Ano do
+  evento, Local do evento. \textbf{Anais...} Local da publicacao: Entidade
+  organizadora, 2001. p. Pagina inicial--Pagina final.}
+
+\bibitem[AMANCO 2014]{AMANCO2014}
+\abntrefinfo{AMANCO}{AMANCO}{2014}
+{AMANCO, A. \textbf{Titulo}.
+edicao. Local, 2014. Total de paginas~p. Dispon{\'\i}vel em:
+  \url{www.berg.com}. Acesso em: 20 dez. de 2015.}
+
+\bibitem[Correa 2004]{Correa2004}
+\abntrefinfo{Correa}{CORREA}{2004}
+{CORREA. Titulo do artigo. In:  NOME DO EVENTO, Numero do evento., Ano do
+  evento, Local do evento. \textbf{Anais...} Local da publicacao: Entidade
+  organizadora, 2004. p. Pagina inicial--Pagina final.}
+
+\bibitem[Drew 2004]{DREW2004}
+\abntrefinfo{Drew}{DREW}{2004}
+{DREW. Titulo do artigo. In:  NOME DO EVENTO, Numero do evento., Ano do evento,
+  Local do evento. \textbf{Anais...} Local da publicacao: Entidade
+  organizadora, 2004. p. Pagina inicial--Pagina final.}
+
+\bibitem[Greif 1989]{GREIF1989}
+\abntrefinfo{Greif}{GREIF}{1989}
+{GREIF. Titulo do artigo. In:  NOME DO EVENTO, Numero do evento., Ano do
+  evento, Local do evento. \textbf{Anais...} Local da publicacao: Entidade
+  organizadora, 1989. p. Pagina inicial--Pagina final.}
+
+\bibitem[Matias 2007]{Matias2007}
+\abntrefinfo{Matias}{MATIAS}{2007}
+{MATIAS. Titulo do artigo. In:  NOME DO EVENTO, Numero do evento., Ano do
+  evento, Local do evento. \textbf{Anais...} Local da publicacao: Entidade
+  organizadora, 2007. p. Pagina inicial--Pagina final.}
+
+\bibitem[MAXIMIANO 2005]{MAXIMIANO2005}
+\abntrefinfo{MAXIMIANO}{MAXIMIANO}{2005}
+{MAXIMIANO. Titulo do artigo. In:  NOME DO EVENTO, Numero do evento., Ano do
+  evento, Local do evento. \textbf{Anais...} Local da publicacao: Entidade
+  organizadora, 2005. p. Pagina inicial--Pagina final.}
+
+\bibitem[Pascoal 2008]{Pascoal2008}
+\abntrefinfo{Pascoal}{PASCOAL}{2008}
+{PASCOAL. Titulo do artigo. In:  NOME DO EVENTO, Numero do evento., Ano do
+  evento, Local do evento. \textbf{Anais...} Local da publicacao: Entidade
+  organizadora, 2008. p. Pagina inicial--Pagina final.}
+
+\bibitem[SIMACON 2017]{SIMACON2017}
+\abntrefinfo{SIMACON}{SIMACON}{2017}
+{SIMACON, S. \textbf{Titulo}.
+edicao. Local, 2017. Total de paginas~p. Dispon{\'\i}vel em:
+  \url{www.berg.com}. Acesso em: 20 dez. de 2015.}
+
+\bibitem[Yin 2010]{YIN2010}
+\abntrefinfo{Yin}{YIN}{2010}
+{YIN. Titulo do artigo. In:  NOME DO EVENTO, Numero do evento., Ano do evento,
+  Local do evento. \textbf{Anais...} Local da publicacao: Entidade
+  organizadora, 2010. p. Pagina inicial--Pagina final.}
+
+\end{thebibliography}
